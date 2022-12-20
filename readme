@@ -1,0 +1,1 @@
+pour compiler taper la commande  gcc -o exec TraitementImage.c -lm et pour l'executer taper la commande ./exec nomImage.pgm
