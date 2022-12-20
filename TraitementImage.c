@@ -6,7 +6,7 @@
 #include <string.h>
 #include <math.h>
 
-
+//hellooooo
 int* Dynamique(int**data,int* width,int* heigth){
 	int* t=calloc(2,sizeof(int));
 	t[0]=255;
